@@ -2,5 +2,7 @@ def solution(list_of_integers):
     '''
     Enter your code here
     '''
-    
-    return sum_numbers
+    total=0
+    for item in list_of_integers:
+        total += item
+    return total
