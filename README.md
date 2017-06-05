@@ -11,7 +11,7 @@
 * Function name should be solution.
 * Input 
       
-       Type: List
+       Type:  List
        Value: [2,3,5,8,11]
        
 * Expected Output
