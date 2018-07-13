@@ -1,6 +1,2 @@
 def solution(list_of_integers):
-    '''
-    Enter your code here
-    '''
-    
-    return sum_numbers
+    return sum(list_of_integers)
